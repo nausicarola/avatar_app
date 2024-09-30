@@ -1,4 +1,5 @@
 {
   "name": "app",
-  "private": true
+  "private": true,
+  "build": "webpack --config webpack.config.js"
 }
